@@ -1,5 +1,9 @@
 # Actividad 004 - Landing Page
 
+*SOLUCIÓN*:
+
+Para acceder a esta página, haz click [aquí.](https://valegutierrez.github.io/E2CP2A1/)
+
 *INSTRUCCIONES*:
 
 - Para poder realizar este actividad debes haber realizado los cursos previos junto con haber visto los videos online correspondientes a la experiencia 1, 2.
